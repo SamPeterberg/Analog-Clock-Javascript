@@ -1,0 +1,46 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+#sec {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  margin-inline: auto;
+  width: 5px;
+  height: 180px;
+  background-color: rgb(255, 51, 51);
+  transform-origin: 0 100%;
+}
+#min {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  margin-inline: auto;
+  width: 8px;
+  height: 150px;
+  background-color: black;
+  transform-origin: 0 100%;
+}
+#hr {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  margin-inline: auto;
+  width: 10px;
+  height: 120px;
+  background-color: black;
+  transform-origin: 0 100%;
+}
+#watchbg {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
