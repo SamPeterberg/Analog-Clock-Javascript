@@ -23,3 +23,7 @@ The clock calculates the position of each hand based on the current time, using 
 
 ##Screenshot
 <img src="https://i.ibb.co/YcBJQRR/analog-clock.png" alt="Analog Watch Screenshot" width="500" />
+
+
+
+<<<<------- END ------>>>>
